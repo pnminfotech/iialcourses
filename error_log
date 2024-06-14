@@ -1,0 +1,70 @@
+[04-Jul-2023 02:28:14 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'connect4_shradha_cd017.courses' doesn't exist in /home1/connect4/public_html/pnminfotech/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/pnminfotech/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/pnminfotech/iialcourses/index.php on line 182
+[04-Jul-2023 02:47:39 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'connect4_shradha_cd017.courses' doesn't exist in /home1/connect4/public_html/pnminfotech/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/pnminfotech/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/pnminfotech/iialcourses/index.php on line 182
+[26-Dec-2023 02:50:25 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'connect4_shradha_cd017.courses' doesn't exist in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
+[26-Dec-2023 02:50:52 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'connect4_shradha_cd017.courses' doesn't exist in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
+[26-Dec-2023 02:52:08 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'connect4_shradha_cd017.testimonial' doesn't exist in /home1/connect4/public_html/iialcourses/testimonial.php:90
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/testimonial.php(90): mysqli_query(Object(mysqli), 'select name,msg...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/testimonial.php on line 90
+[26-Dec-2023 02:57:29 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
+[26-Dec-2023 02:57:51 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
+[26-Dec-2023 03:00:38 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
+[26-Dec-2023 03:01:48 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/courses.php:125
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/courses.php(125): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/courses.php on line 125
+[26-Dec-2023 03:04:22 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/courses.php:125
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/courses.php(125): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/courses.php on line 125
+[26-Dec-2023 03:06:31 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
+[26-Dec-2023 03:06:46 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
+[26-Dec-2023 03:13:14 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
+[26-Dec-2023 03:14:10 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'img' in 'field list' in /home1/connect4/public_html/iialcourses/index.php:182
+Stack trace:
+#0 /home1/connect4/public_html/iialcourses/index.php(182): mysqli_query(Object(mysqli), 'select id,c_nam...')
+#1 {main}
+  thrown in /home1/connect4/public_html/iialcourses/index.php on line 182
